@@ -1,0 +1,35 @@
+.:
+total 16
+drwxrwxr-x  4 kali kali 4096 Oct  4 13:15 .
+drwx------ 28 kali kali 4096 Oct  4 13:15 ..
+drwxrwxr-x  2 kali kali 4096 Oct  4 13:15 ex00
+drwxrwxr-x  3 kali kali 4096 Oct  4 13:15 projects
+
+./ex00:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  4 13:15 .
+drwxrwxr-x 4 kali kali 4096 Oct  4 13:15 ..
+-rw-rw-r-- 1 kali kali    0 Oct  4 13:15 tree_structure.txt
+
+./projects:
+total 12
+drwxrwxr-x 3 kali kali 4096 Oct  4 13:15 .
+drwxrwxr-x 4 kali kali 4096 Oct  4 13:15 ..
+drwxrwxr-x 4 kali kali 4096 Oct  4 13:15 web
+
+./projects/web:
+total 16
+drwxrwxr-x 4 kali kali 4096 Oct  4 13:15 .
+drwxrwxr-x 3 kali kali 4096 Oct  4 13:15 ..
+drwxrwxr-x 2 kali kali 4096 Oct  4 13:15 backend
+drwxrwxr-x 2 kali kali 4096 Oct  4 13:15 frontend
+
+./projects/web/backend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  4 13:15 .
+drwxrwxr-x 4 kali kali 4096 Oct  4 13:15 ..
+
+./projects/web/frontend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  4 13:15 .
+drwxrwxr-x 4 kali kali 4096 Oct  4 13:15 ..
